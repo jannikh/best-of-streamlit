@@ -661,4 +661,9 @@ projects:
     github_id: RasaHQ/NLU-training-data
     category: nlp
     show: True
-
+  - name: TaviTravel: Personal Travel Advisor
+    homepage: https://tavitravel.com?r=gbs
+    description: AI-powered travel recommendation engine based on individual preferences and interests
+    image: https://jannikh.com/tavitravel/loading_img.png
+    category: # Unsure which category best fits an AI-based travel suggestion engine
+    show: True
